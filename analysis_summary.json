@@ -1,0 +1,13 @@
+{
+  "total_contracts_analyzed": 20,
+  "total_clauses_analyzed": 382,
+  "unique_clause_types": 10,
+  "high_risk_clauses": 217,
+  "medium_risk_clauses": 120,
+  "low_risk_clauses": 45,
+  "party_a_favorable": 94,
+  "party_a_unfavorable": 139,
+  "party_b_favorable": 77,
+  "party_b_unfavorable": 97,
+  "avg_entities_per_contract": 45.3
+}

@@ -1,0 +1,383 @@
+contract_id,clause_type,risk_level,party_a_favorability,party_b_favorability,party_a_score,party_b_score
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,neutral,1,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,neutral,unfavorable,0,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,favorable,2,1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,unfavorable,neutral,-1,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,warranty,low,favorable,neutral,1,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,neutral,1,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,payment,medium,neutral,unfavorable,0,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,unfavorable,1,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,neutral,3,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,neutral,favorable,0,2
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,favorable,favorable,1,1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,favorable,favorable,1,1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,liability,high,neutral,neutral,0,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,neutral,neutral,0,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,neutral,neutral,0,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,termination,high,favorable,neutral,1,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,unfavorable,unfavorable,-2,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,liability,high,neutral,unfavorable,0,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,liability,high,unfavorable,unfavorable,-1,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,liability,high,unfavorable,unfavorable,-3,-1
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,governing_law,low,neutral,neutral,0,0
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,unfavorable,1,-2
+N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT,confidentiality,medium,favorable,unfavorable,1,-1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,liability,high,neutral,unfavorable,0,-1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,intellectual_property,low,favorable,neutral,1,0
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,general,low,favorable,neutral,2,0
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,payment,medium,favorable,favorable,2,1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,termination,high,unfavorable,neutral,-1,0
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,payment,medium,neutral,favorable,0,2
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,termination,high,unfavorable,favorable,-2,2
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,payment,medium,neutral,favorable,0,2
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,payment,medium,unfavorable,favorable,-2,1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,payment,medium,favorable,favorable,2,1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,termination,high,unfavorable,favorable,-1,1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,confidentiality,medium,unfavorable,favorable,-1,1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,confidentiality,medium,neutral,unfavorable,0,-2
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,confidentiality,medium,favorable,unfavorable,2,-1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,liability,high,neutral,favorable,0,1
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT,payment,medium,unfavorable,favorable,-1,1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,confidentiality,medium,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,neutral,0,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,neutral,0,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,favorable,0,1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,neutral,0,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,favorable,neutral,3,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,payment,medium,unfavorable,favorable,-1,1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,liability,high,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,intellectual_property,low,neutral,neutral,0,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,favorable,neutral,1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,neutral,0,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,liability,high,favorable,unfavorable,1,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,favorable,unfavorable,1,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,favorable,neutral,1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,liability,high,favorable,neutral,1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,liability,high,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,neutral,-2,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,favorable,neutral,1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,unfavorable,-1,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,neutral,-2,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,confidentiality,medium,favorable,unfavorable,2,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,unfavorable,0,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,unfavorable,neutral,-1,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,neutral,0,0
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,neutral,unfavorable,0,-1
+IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement,termination,high,favorable,neutral,1,0
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,confidentiality,medium,neutral,neutral,0,0
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,intellectual_property,low,favorable,unfavorable,2,-1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,liability,high,neutral,neutral,0,0
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,termination,high,unfavorable,neutral,-1,0
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,termination,high,favorable,neutral,2,0
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,termination,high,unfavorable,unfavorable,-1,-1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,termination,high,neutral,favorable,0,1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,confidentiality,medium,unfavorable,favorable,-1,1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,general,low,neutral,unfavorable,0,-1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,liability,high,neutral,unfavorable,0,-1
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,neutral,neutral,0,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,unfavorable,neutral,-3,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",payment,medium,favorable,favorable,1,2
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",payment,medium,unfavorable,favorable,-2,1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",indemnification,high,unfavorable,favorable,-1,2
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",liability,high,unfavorable,favorable,-2,3
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,neutral,neutral,0,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,unfavorable,neutral,-1,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",liability,high,unfavorable,favorable,-2,1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",liability,high,unfavorable,unfavorable,-2,-1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,neutral,favorable,0,1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,favorable,favorable,1,1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,unfavorable,unfavorable,-2,-1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",liability,high,neutral,neutral,0,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",liability,high,unfavorable,favorable,-2,1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",governing_law,low,unfavorable,neutral,-2,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,unfavorable,neutral,-3,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",payment,medium,favorable,neutral,1,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",general,low,unfavorable,neutral,-2,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",payment,medium,unfavorable,favorable,-1,2
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",payment,medium,neutral,unfavorable,0,-1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",general,low,unfavorable,neutral,-2,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",dispute,medium,neutral,neutral,0,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",liability,high,neutral,unfavorable,0,-1
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",confidentiality,medium,unfavorable,neutral,-2,0
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",termination,high,unfavorable,neutral,-1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,favorable,neutral,1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,neutral,neutral,0,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,unfavorable,neutral,-1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,neutral,favorable,0,1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,indemnification,high,neutral,neutral,0,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,unfavorable,unfavorable,-1,-1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,neutral,neutral,0,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,unfavorable,unfavorable,-1,-1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,neutral,favorable,0,1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,unfavorable,neutral,-3,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,unfavorable,favorable,-1,1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,liability,high,neutral,neutral,0,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,liability,high,neutral,unfavorable,0,-1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,unfavorable,favorable,-1,1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,neutral,favorable,0,1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,unfavorable,neutral,-2,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,confidentiality,medium,favorable,unfavorable,1,-2
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,confidentiality,medium,favorable,unfavorable,2,-1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,confidentiality,medium,favorable,neutral,1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,neutral,unfavorable,0,-1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,favorable,neutral,1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,general,low,favorable,neutral,1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,general,low,unfavorable,neutral,-1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,favorable,neutral,2,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,dispute,medium,unfavorable,neutral,-1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,general,low,unfavorable,neutral,-1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,payment,medium,unfavorable,favorable,-1,1
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,neutral,neutral,0,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,general,low,favorable,neutral,1,0
+IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT,termination,high,favorable,unfavorable,1,-1
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,termination,high,favorable,neutral,1,0
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,payment,medium,unfavorable,unfavorable,-2,-1
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,confidentiality,medium,unfavorable,favorable,-2,1
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,termination,high,neutral,neutral,0,0
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,termination,high,favorable,neutral,1,0
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,termination,high,favorable,unfavorable,1,-2
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,liability,high,favorable,unfavorable,1,-2
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,liability,high,neutral,unfavorable,0,-1
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2,liability,high,neutral,unfavorable,0,-1
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,liability,high,favorable,unfavorable,1,-1
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,intellectual_property,low,neutral,unfavorable,0,-1
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,intellectual_property,low,neutral,favorable,0,1
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,termination,high,neutral,favorable,0,1
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,termination,high,favorable,unfavorable,1,-1
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,liability,high,unfavorable,neutral,-1,0
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,warranty,low,neutral,neutral,0,0
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,indemnification,high,neutral,neutral,0,0
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,intellectual_property,low,neutral,neutral,0,0
+HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement,liability,high,neutral,unfavorable,0,-1
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,termination,high,unfavorable,favorable,-1,1
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,liability,high,neutral,favorable,0,1
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,general,low,neutral,neutral,0,0
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,termination,high,neutral,neutral,0,0
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,termination,high,unfavorable,neutral,-2,0
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,governing_law,low,neutral,unfavorable,0,-1
+SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT,termination,high,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,termination,high,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,warranty,low,neutral,unfavorable,0,-1
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,payment,medium,unfavorable,neutral,-1,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,payment,medium,favorable,favorable,1,1
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,warranty,low,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,termination,high,unfavorable,neutral,-1,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,termination,high,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,indemnification,high,favorable,unfavorable,1,-1
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,liability,high,unfavorable,neutral,-2,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,liability,high,neutral,favorable,0,1
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,dispute,medium,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,liability,high,unfavorable,neutral,-1,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,liability,high,favorable,neutral,1,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,liability,high,unfavorable,neutral,-2,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,general,low,unfavorable,unfavorable,-3,-1
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,general,low,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,termination,high,neutral,neutral,0,0
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,liability,high,unfavorable,unfavorable,-2,-1
+IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement,general,low,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",intellectual_property,low,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",intellectual_property,low,favorable,neutral,1,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",intellectual_property,low,favorable,neutral,1,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",general,low,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",liability,high,unfavorable,favorable,-1,2
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",liability,high,favorable,favorable,1,1
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",indemnification,high,unfavorable,neutral,-1,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,unfavorable,0,-1
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,unfavorable,neutral,-1,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,unfavorable,0,-1
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,favorable,0,1
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",termination,high,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",warranty,low,unfavorable,neutral,-2,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",general,low,unfavorable,neutral,-1,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",governing_law,low,neutral,neutral,0,0
+"HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",indemnification,high,favorable,neutral,1,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,confidentiality,medium,unfavorable,neutral,-1,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,termination,high,neutral,neutral,0,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,payment,medium,neutral,neutral,0,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,termination,high,unfavorable,unfavorable,-1,-1
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,confidentiality,medium,unfavorable,neutral,-1,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT,termination,high,unfavorable,favorable,-2,1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,favorable,neutral,2,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,neutral,neutral,0,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,neutral,favorable,0,1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,favorable,unfavorable,2,-1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,unfavorable,favorable,-1,1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,favorable,neutral,1,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,favorable,neutral,1,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,neutral,favorable,0,1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,favorable,neutral,2,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,liability,high,unfavorable,neutral,-3,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,warranty,low,favorable,neutral,2,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,favorable,neutral,2,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,liability,high,neutral,neutral,0,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,indemnification,high,favorable,neutral,1,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,indemnification,high,neutral,unfavorable,0,-1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,favorable,unfavorable,1,-1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,neutral,neutral,0,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,favorable,neutral,2,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,favorable,neutral,1,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,general,low,neutral,favorable,0,1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,liability,high,neutral,unfavorable,0,-2
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,termination,high,neutral,favorable,0,1
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,payment,medium,favorable,neutral,2,0
+BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT,general,low,favorable,neutral,1,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,general,low,neutral,neutral,0,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,general,low,favorable,neutral,1,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,payment,medium,favorable,neutral,4,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,general,low,neutral,neutral,0,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,general,low,unfavorable,unfavorable,-1,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,unfavorable,neutral,-1,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,unfavorable,neutral,-2,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,neutral,neutral,0,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,unfavorable,favorable,-1,1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,favorable,favorable,1,1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,payment,medium,neutral,neutral,0,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,favorable,neutral,1,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,favorable,unfavorable,1,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,liability,high,unfavorable,unfavorable,-2,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,unfavorable,favorable,-2,1
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,neutral,neutral,0,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,termination,high,unfavorable,neutral,-1,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,liability,high,favorable,favorable,1,2
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,liability,high,unfavorable,neutral,-2,0
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement,confidentiality,medium,favorable,neutral,1,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,favorable,-1,1
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,general,low,unfavorable,unfavorable,-1,-1
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,neutral,unfavorable,0,-1
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,favorable,-3,2
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,neutral,neutral,0,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,favorable,neutral,2,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,neutral,-1,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,neutral,-1,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,neutral,-1,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,neutral,-1,0
+GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT,termination,high,unfavorable,favorable,-1,2
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,termination,high,neutral,neutral,0,0
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,termination,high,neutral,favorable,0,2
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,termination,high,favorable,favorable,2,2
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,termination,high,unfavorable,neutral,-1,0
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,confidentiality,medium,neutral,unfavorable,0,-1
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,termination,high,unfavorable,unfavorable,-1,-1
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,liability,high,unfavorable,neutral,-1,0
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,warranty,low,neutral,favorable,0,2
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,liability,high,favorable,unfavorable,2,-1
+MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT,payment,medium,favorable,neutral,1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,neutral,-2,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,favorable,unfavorable,1,-1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,favorable,-1,1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,unfavorable,unfavorable,-1,-1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,termination,high,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,termination,high,neutral,favorable,0,1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,termination,high,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,warranty,low,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,indemnification,high,neutral,neutral,0,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,unfavorable,-2,-1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,neutral,unfavorable,0,-1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,neutral,-1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,termination,high,unfavorable,unfavorable,-2,-2
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,termination,high,unfavorable,favorable,-2,1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,neutral,neutral,0,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,neutral,-2,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,confidentiality,medium,unfavorable,favorable,-1,1
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,favorable,neutral,1,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,indemnification,high,unfavorable,neutral,-2,0
+BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT,liability,high,unfavorable,unfavorable,-1,-1
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",confidentiality,medium,unfavorable,neutral,-1,0
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",liability,high,unfavorable,unfavorable,-1,-1
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",termination,high,favorable,unfavorable,1,-1
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",termination,high,unfavorable,neutral,-1,0
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",termination,high,neutral,neutral,0,0
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",termination,high,neutral,favorable,0,1
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",dispute,medium,neutral,unfavorable,0,-1
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",dispute,medium,neutral,neutral,0,0
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",payment,medium,unfavorable,favorable,-1,2
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",confidentiality,medium,unfavorable,neutral,-1,0
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",governing_law,low,neutral,favorable,0,1
+"KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",payment,medium,unfavorable,favorable,-2,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,favorable,unfavorable,1,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,neutral,neutral,0,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,favorable,neutral,2,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,payment,medium,unfavorable,unfavorable,-2,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,payment,medium,neutral,unfavorable,0,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,neutral,neutral,0,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,payment,medium,neutral,neutral,0,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,unfavorable,favorable,-1,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,favorable,unfavorable,2,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,neutral,unfavorable,0,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,favorable,neutral,1,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,neutral,unfavorable,0,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,favorable,neutral,1,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,payment,medium,unfavorable,neutral,-1,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,liability,high,neutral,favorable,0,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,neutral,favorable,0,2
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,unfavorable,favorable,-3,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,liability,high,unfavorable,favorable,-2,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,neutral,neutral,0,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,favorable,favorable,1,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,general,low,neutral,unfavorable,0,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,unfavorable,neutral,-1,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,intellectual_property,low,unfavorable,unfavorable,-1,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,confidentiality,medium,favorable,neutral,1,0
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,neutral,favorable,0,1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,favorable,unfavorable,2,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,liability,high,favorable,unfavorable,2,-1
+CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT,termination,high,favorable,unfavorable,2,-1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,confidentiality,medium,neutral,neutral,0,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,payment,medium,favorable,neutral,1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,favorable,neutral,2,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,liability,high,unfavorable,neutral,-2,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,liability,high,unfavorable,neutral,-1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,liability,high,unfavorable,neutral,-1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,payment,medium,neutral,favorable,0,2
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,unfavorable,neutral,-1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,neutral,favorable,0,1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,favorable,favorable,1,2
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,confidentiality,medium,neutral,unfavorable,0,-1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,neutral,neutral,0,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,confidentiality,medium,unfavorable,neutral,-2,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,neutral,unfavorable,0,-1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,neutral,unfavorable,0,-1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,liability,high,unfavorable,unfavorable,-1,-1
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,favorable,neutral,2,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,indemnification,high,unfavorable,neutral,-1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,payment,medium,favorable,neutral,1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,termination,high,unfavorable,neutral,-1,0
+TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement,liability,high,unfavorable,neutral,-1,0
